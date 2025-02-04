@@ -1,0 +1,12 @@
+/* CSS for the button */
+#changeColorButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* CSS for the text */
+#text {
+    font-size: 24px;
+    font-weight: bold;
+}
